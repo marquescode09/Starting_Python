@@ -6,4 +6,4 @@ Step by Step:
 3. Fahrenheit to Celsius Conversion: Next, I use an `elif` statement to check if `unidade` equals "F". If true, it calculates the conversion to Celsius and prints the result.
 4. Fallback / Error Handling: Finally, I use an `else` block to handle invalid inputs by printing `f"{unidade} incorreta"`.
 
-🔗 
+🔗  [converter_temp.py]
